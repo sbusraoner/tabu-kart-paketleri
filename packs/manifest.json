@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "packs": [
+  {
+   "language": "tr",
+   "level": "easy",
+   "version": 1,
+   "count": 84,
+   "hash": "5a581192ea6c2223",
+   "path": "tr/easy.json"
+  },
+  {
+   "language": "tr",
+   "level": "medium",
+   "version": 1,
+   "count": 80,
+   "hash": "35b1329c7e80bb1e",
+   "path": "tr/medium.json"
+  },
+  {
+   "language": "tr",
+   "level": "hard",
+   "version": 1,
+   "count": 78,
+   "hash": "818889d3d93a5b84",
+   "path": "tr/hard.json"
+  },
+  {
+   "language": "en",
+   "level": "easy",
+   "version": 1,
+   "count": 81,
+   "hash": "def359e6b392fa08",
+   "path": "en/easy.json"
+  },
+  {
+   "language": "en",
+   "level": "medium",
+   "version": 1,
+   "count": 79,
+   "hash": "77d47ffa753222f4",
+   "path": "en/medium.json"
+  },
+  {
+   "language": "en",
+   "level": "hard",
+   "version": 1,
+   "count": 76,
+   "hash": "87b49bf00cbc6bb3",
+   "path": "en/hard.json"
+  }
+ ]
+}

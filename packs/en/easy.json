@@ -1,0 +1,979 @@
+{
+ "language": "en",
+ "level": "easy",
+ "version": 1,
+ "cards": [
+  {
+   "id": "en-apple",
+   "word": "Apple",
+   "taboo": [
+    "fruit",
+    "red",
+    "tree",
+    "pie",
+    "green"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-coffee",
+   "word": "Coffee",
+   "taboo": [
+    "cup",
+    "caffeine",
+    "morning",
+    "espresso",
+    "bean"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-bread",
+   "word": "Bread",
+   "taboo": [
+    "bake",
+    "slice",
+    "toast",
+    "loaf",
+    "flour"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-cheese",
+   "word": "Cheese",
+   "taboo": [
+    "milk",
+    "cheddar",
+    "mouse",
+    "yellow",
+    "pizza"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-soup",
+   "word": "Soup",
+   "taboo": [
+    "bowl",
+    "spoon",
+    "hot",
+    "tomato",
+    "chicken"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-ice-cream",
+   "word": "Ice cream",
+   "taboo": [
+    "cold",
+    "cone",
+    "scoop",
+    "summer",
+    "vanilla"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-pizza",
+   "word": "Pizza",
+   "taboo": [
+    "Italian",
+    "slice",
+    "cheese",
+    "pepperoni",
+    "delivery"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-pancake",
+   "word": "Pancake",
+   "taboo": [
+    "breakfast",
+    "syrup",
+    "flat",
+    "flip",
+    "batter"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-popcorn",
+   "word": "Popcorn",
+   "taboo": [
+    "movie",
+    "corn",
+    "butter",
+    "pop",
+    "salty"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-banana",
+   "word": "Banana",
+   "taboo": [
+    "yellow",
+    "fruit",
+    "monkey",
+    "peel",
+    "split"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-egg",
+   "word": "Egg",
+   "taboo": [
+    "chicken",
+    "breakfast",
+    "yolk",
+    "shell",
+    "boil"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-honey",
+   "word": "Honey",
+   "taboo": [
+    "bee",
+    "sweet",
+    "hive",
+    "sticky",
+    "gold"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-watermelon",
+   "word": "Watermelon",
+   "taboo": [
+    "summer",
+    "seeds",
+    "red",
+    "green",
+    "fruit"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-sandwich",
+   "word": "Sandwich",
+   "taboo": [
+    "bread",
+    "lunch",
+    "ham",
+    "slices",
+    "sub"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-fridge",
+   "word": "Fridge",
+   "taboo": [
+    "cold",
+    "kitchen",
+    "freezer",
+    "food",
+    "appliance"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-pillow",
+   "word": "Pillow",
+   "taboo": [
+    "bed",
+    "sleep",
+    "head",
+    "soft",
+    "case"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-mirror",
+   "word": "Mirror",
+   "taboo": [
+    "reflection",
+    "look",
+    "glass",
+    "bathroom",
+    "image"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-umbrella",
+   "word": "Umbrella",
+   "taboo": [
+    "rain",
+    "wet",
+    "open",
+    "handle",
+    "weather"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-key",
+   "word": "Key",
+   "taboo": [
+    "lock",
+    "door",
+    "open",
+    "keychain",
+    "lost"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-stairs",
+   "word": "Stairs",
+   "taboo": [
+    "steps",
+    "up",
+    "down",
+    "climb",
+    "elevator"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-window",
+   "word": "Window",
+   "taboo": [
+    "glass",
+    "curtain",
+    "open",
+    "view",
+    "pane"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-clock",
+   "word": "Clock",
+   "taboo": [
+    "time",
+    "hands",
+    "hour",
+    "minute",
+    "tick"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-candle",
+   "word": "Candle",
+   "taboo": [
+    "wax",
+    "flame",
+    "light",
+    "wick",
+    "birthday"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-backpack",
+   "word": "Backpack",
+   "taboo": [
+    "school",
+    "bag",
+    "carry",
+    "shoulders",
+    "zipper"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-sofa",
+   "word": "Sofa",
+   "taboo": [
+    "couch",
+    "sit",
+    "living room",
+    "cushion",
+    "comfy"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-cat",
+   "word": "Cat",
+   "taboo": [
+    "meow",
+    "purr",
+    "kitten",
+    "pet",
+    "mouse"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-dog",
+   "word": "Dog",
+   "taboo": [
+    "bark",
+    "puppy",
+    "bone",
+    "pet",
+    "wag"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-fish",
+   "word": "Fish",
+   "taboo": [
+    "water",
+    "swim",
+    "fins",
+    "aquarium",
+    "ocean"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-bird",
+   "word": "Bird",
+   "taboo": [
+    "fly",
+    "wings",
+    "feathers",
+    "nest",
+    "tweet"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-lion",
+   "word": "Lion",
+   "taboo": [
+    "king",
+    "jungle",
+    "roar",
+    "mane",
+    "Africa"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-elephant",
+   "word": "Elephant",
+   "taboo": [
+    "trunk",
+    "big",
+    "gray",
+    "ears",
+    "Africa"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-rabbit",
+   "word": "Rabbit",
+   "taboo": [
+    "bunny",
+    "ears",
+    "carrot",
+    "hop",
+    "Easter"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-bee",
+   "word": "Bee",
+   "taboo": [
+    "honey",
+    "sting",
+    "buzz",
+    "hive",
+    "flower"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-snake",
+   "word": "Snake",
+   "taboo": [
+    "slither",
+    "hiss",
+    "venom",
+    "reptile",
+    "long"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-turtle",
+   "word": "Turtle",
+   "taboo": [
+    "shell",
+    "slow",
+    "reptile",
+    "sea",
+    "tortoise"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-sun",
+   "word": "Sun",
+   "taboo": [
+    "hot",
+    "yellow",
+    "sky",
+    "light",
+    "star"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-moon",
+   "word": "Moon",
+   "taboo": [
+    "night",
+    "full",
+    "space",
+    "crescent",
+    "sky"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-ocean",
+   "word": "Ocean",
+   "taboo": [
+    "sea",
+    "water",
+    "waves",
+    "blue",
+    "beach"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-snow",
+   "word": "Snow",
+   "taboo": [
+    "white",
+    "winter",
+    "cold",
+    "flakes",
+    "ski"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-rain",
+   "word": "Rain",
+   "taboo": [
+    "umbrella",
+    "wet",
+    "cloud",
+    "drops",
+    "storm"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-tree",
+   "word": "Tree",
+   "taboo": [
+    "leaves",
+    "branch",
+    "trunk",
+    "forest",
+    "wood"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-flower",
+   "word": "Flower",
+   "taboo": [
+    "rose",
+    "petal",
+    "garden",
+    "bloom",
+    "smell"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-rainbow",
+   "word": "Rainbow",
+   "taboo": [
+    "colors",
+    "pot of gold",
+    "seven",
+    "arc",
+    "sky"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-mountain",
+   "word": "Mountain",
+   "taboo": [
+    "peak",
+    "climb",
+    "high",
+    "hill",
+    "Everest"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-soccer",
+   "word": "Soccer",
+   "taboo": [
+    "ball",
+    "goal",
+    "kick",
+    "football",
+    "team"
+   ],
+   "category": "spor"
+  },
+  {
+   "id": "en-basketball",
+   "word": "Basketball",
+   "taboo": [
+    "hoop",
+    "dunk",
+    "NBA",
+    "ball",
+    "court"
+   ],
+   "category": "spor"
+  },
+  {
+   "id": "en-swimming",
+   "word": "Swimming",
+   "taboo": [
+    "pool",
+    "water",
+    "stroke",
+    "swimsuit",
+    "dive"
+   ],
+   "category": "spor"
+  },
+  {
+   "id": "en-bicycle",
+   "word": "Bicycle",
+   "taboo": [
+    "pedal",
+    "wheels",
+    "ride",
+    "bike",
+    "helmet"
+   ],
+   "category": "spor"
+  },
+  {
+   "id": "en-tennis",
+   "word": "Tennis",
+   "taboo": [
+    "racket",
+    "court",
+    "ball",
+    "net",
+    "serve"
+   ],
+   "category": "spor"
+  },
+  {
+   "id": "en-teacher",
+   "word": "Teacher",
+   "taboo": [
+    "school",
+    "class",
+    "student",
+    "lesson",
+    "board"
+   ],
+   "category": "okul"
+  },
+  {
+   "id": "en-pencil",
+   "word": "Pencil",
+   "taboo": [
+    "write",
+    "eraser",
+    "lead",
+    "sharpen",
+    "paper"
+   ],
+   "category": "okul"
+  },
+  {
+   "id": "en-book",
+   "word": "Book",
+   "taboo": [
+    "read",
+    "pages",
+    "library",
+    "author",
+    "novel"
+   ],
+   "category": "okul"
+  },
+  {
+   "id": "en-exam",
+   "word": "Exam",
+   "taboo": [
+    "test",
+    "grade",
+    "questions",
+    "study",
+    "pass"
+   ],
+   "category": "okul"
+  },
+  {
+   "id": "en-homework",
+   "word": "Homework",
+   "taboo": [
+    "school",
+    "teacher",
+    "assignment",
+    "study",
+    "due"
+   ],
+   "category": "okul"
+  },
+  {
+   "id": "en-doctor",
+   "word": "Doctor",
+   "taboo": [
+    "hospital",
+    "patient",
+    "medicine",
+    "sick",
+    "nurse"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-chef",
+   "word": "Chef",
+   "taboo": [
+    "cook",
+    "kitchen",
+    "restaurant",
+    "food",
+    "hat"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-police-officer",
+   "word": "Police officer",
+   "taboo": [
+    "crime",
+    "cop",
+    "badge",
+    "arrest",
+    "siren"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-pilot",
+   "word": "Pilot",
+   "taboo": [
+    "plane",
+    "fly",
+    "cockpit",
+    "airport",
+    "captain"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-firefighter",
+   "word": "Firefighter",
+   "taboo": [
+    "smoke",
+    "hose",
+    "truck",
+    "red",
+    "ladder"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-dentist",
+   "word": "Dentist",
+   "taboo": [
+    "teeth",
+    "tooth",
+    "mouth",
+    "drill",
+    "cavity"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-phone",
+   "word": "Phone",
+   "taboo": [
+    "call",
+    "smartphone",
+    "text",
+    "screen",
+    "mobile"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-computer",
+   "word": "Computer",
+   "taboo": [
+    "keyboard",
+    "screen",
+    "mouse",
+    "laptop",
+    "internet"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-television",
+   "word": "Television",
+   "taboo": [
+    "TV",
+    "channel",
+    "remote",
+    "watch",
+    "show"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-camera",
+   "word": "Camera",
+   "taboo": [
+    "photo",
+    "picture",
+    "lens",
+    "video",
+    "snap"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-airplane",
+   "word": "Airplane",
+   "taboo": [
+    "fly",
+    "airport",
+    "pilot",
+    "wings",
+    "flight"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "en-train",
+   "word": "Train",
+   "taboo": [
+    "tracks",
+    "station",
+    "railway",
+    "carriage",
+    "ticket"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "en-bus",
+   "word": "Bus",
+   "taboo": [
+    "stop",
+    "driver",
+    "ticket",
+    "passengers",
+    "school"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "en-suitcase",
+   "word": "Suitcase",
+   "taboo": [
+    "luggage",
+    "travel",
+    "pack",
+    "clothes",
+    "bag"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "en-passport",
+   "word": "Passport",
+   "taboo": [
+    "travel",
+    "country",
+    "border",
+    "visa",
+    "ID"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "en-birthday",
+   "word": "Birthday",
+   "taboo": [
+    "cake",
+    "candles",
+    "party",
+    "gift",
+    "age"
+   ],
+   "category": "eglence"
+  },
+  {
+   "id": "en-movie-theater",
+   "word": "Movie theater",
+   "taboo": [
+    "film",
+    "screen",
+    "popcorn",
+    "ticket",
+    "cinema"
+   ],
+   "category": "eglence"
+  },
+  {
+   "id": "en-guitar",
+   "word": "Guitar",
+   "taboo": [
+    "strings",
+    "play",
+    "music",
+    "chord",
+    "rock"
+   ],
+   "category": "eglence"
+  },
+  {
+   "id": "en-balloon",
+   "word": "Balloon",
+   "taboo": [
+    "air",
+    "pop",
+    "party",
+    "helium",
+    "float"
+   ],
+   "category": "eglence"
+  },
+  {
+   "id": "en-chess",
+   "word": "Chess",
+   "taboo": [
+    "king",
+    "queen",
+    "board",
+    "checkmate",
+    "pawn"
+   ],
+   "category": "eglence"
+  },
+  {
+   "id": "en-gift",
+   "word": "Gift",
+   "taboo": [
+    "present",
+    "wrap",
+    "birthday",
+    "give",
+    "surprise"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "en-money",
+   "word": "Money",
+   "taboo": [
+    "cash",
+    "dollar",
+    "wallet",
+    "bank",
+    "rich"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "en-dream",
+   "word": "Dream",
+   "taboo": [
+    "sleep",
+    "night",
+    "nightmare",
+    "wake",
+    "bed"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "en-laugh",
+   "word": "Laugh",
+   "taboo": [
+    "funny",
+    "smile",
+    "joke",
+    "giggle",
+    "happy"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "en-dance",
+   "word": "Dance",
+   "taboo": [
+    "music",
+    "move",
+    "party",
+    "rhythm",
+    "steps"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "en-glasses",
+   "word": "Glasses",
+   "taboo": [
+    "eyes",
+    "see",
+    "lenses",
+    "frames",
+    "read"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "en-toothbrush",
+   "word": "Toothbrush",
+   "taboo": [
+    "teeth",
+    "paste",
+    "brush",
+    "morning",
+    "bathroom"
+   ],
+   "category": "saglik"
+  }
+ ]
+}

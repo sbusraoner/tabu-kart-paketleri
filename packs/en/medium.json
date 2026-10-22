@@ -1,0 +1,955 @@
+{
+ "language": "en",
+ "level": "medium",
+ "version": 1,
+ "cards": [
+  {
+   "id": "en-nostalgia",
+   "word": "Nostalgia",
+   "taboo": [
+    "past",
+    "memories",
+    "old",
+    "miss",
+    "remember"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-jealousy",
+   "word": "Jealousy",
+   "taboo": [
+    "envy",
+    "green",
+    "partner",
+    "want",
+    "resent"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-patience",
+   "word": "Patience",
+   "taboo": [
+    "wait",
+    "calm",
+    "virtue",
+    "hurry",
+    "tolerate"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-curiosity",
+   "word": "Curiosity",
+   "taboo": [
+    "question",
+    "cat",
+    "wonder",
+    "know",
+    "interest"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-coincidence",
+   "word": "Coincidence",
+   "taboo": [
+    "chance",
+    "luck",
+    "accident",
+    "same time",
+    "fate"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-conscience",
+   "word": "Conscience",
+   "taboo": [
+    "guilt",
+    "right",
+    "wrong",
+    "moral",
+    "inner voice"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-freedom",
+   "word": "Freedom",
+   "taboo": [
+    "chains",
+    "liberty",
+    "prison",
+    "independence",
+    "bird"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-embarrassment",
+   "word": "Embarrassment",
+   "taboo": [
+    "blush",
+    "shame",
+    "awkward",
+    "red",
+    "cringe"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-microwave",
+   "word": "Microwave",
+   "taboo": [
+    "heat",
+    "kitchen",
+    "oven",
+    "popcorn",
+    "minute"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-washing-machine",
+   "word": "Washing machine",
+   "taboo": [
+    "laundry",
+    "clothes",
+    "detergent",
+    "spin",
+    "dryer"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-corkscrew",
+   "word": "Corkscrew",
+   "taboo": [
+    "wine",
+    "bottle",
+    "opener",
+    "open",
+    "twist"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-power-outlet",
+   "word": "Power outlet",
+   "taboo": [
+    "socket",
+    "plug",
+    "wall",
+    "electricity",
+    "charge"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-doormat",
+   "word": "Doormat",
+   "taboo": [
+    "welcome",
+    "shoes",
+    "wipe",
+    "entrance",
+    "floor"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-lamp",
+   "word": "Lamp",
+   "taboo": [
+    "light",
+    "bulb",
+    "shade",
+    "desk",
+    "switch"
+   ],
+   "category": "ev"
+  },
+  {
+   "id": "en-omelette",
+   "word": "Omelette",
+   "taboo": [
+    "eggs",
+    "breakfast",
+    "fold",
+    "pan",
+    "cheese"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-sushi",
+   "word": "Sushi",
+   "taboo": [
+    "Japanese",
+    "raw fish",
+    "rice",
+    "seaweed",
+    "chopsticks"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-pickle",
+   "word": "Pickle",
+   "taboo": [
+    "cucumber",
+    "vinegar",
+    "jar",
+    "sour",
+    "dill"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-burrito",
+   "word": "Burrito",
+   "taboo": [
+    "Mexican",
+    "wrap",
+    "tortilla",
+    "beans",
+    "rice"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-croissant",
+   "word": "Croissant",
+   "taboo": [
+    "French",
+    "pastry",
+    "butter",
+    "breakfast",
+    "crescent"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-smoothie",
+   "word": "Smoothie",
+   "taboo": [
+    "blend",
+    "fruit",
+    "drink",
+    "yogurt",
+    "straw"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-barbecue",
+   "word": "Barbecue",
+   "taboo": [
+    "grill",
+    "meat",
+    "smoke",
+    "outdoor",
+    "burger"
+   ],
+   "category": "yemek"
+  },
+  {
+   "id": "en-volcano",
+   "word": "Volcano",
+   "taboo": [
+    "lava",
+    "erupt",
+    "mountain",
+    "ash",
+    "magma"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-waterfall",
+   "word": "Waterfall",
+   "taboo": [
+    "cascade",
+    "fall",
+    "Niagara",
+    "cliff",
+    "river"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-desert",
+   "word": "Desert",
+   "taboo": [
+    "sand",
+    "hot",
+    "camel",
+    "dry",
+    "Sahara"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-earthquake",
+   "word": "Earthquake",
+   "taboo": [
+    "shake",
+    "ground",
+    "Richter",
+    "fault",
+    "quake"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-tide",
+   "word": "Tide",
+   "taboo": [
+    "ocean",
+    "moon",
+    "low",
+    "high",
+    "waves"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-glacier",
+   "word": "Glacier",
+   "taboo": [
+    "ice",
+    "melt",
+    "frozen",
+    "mountain",
+    "slow"
+   ],
+   "category": "doga"
+  },
+  {
+   "id": "en-chameleon",
+   "word": "Chameleon",
+   "taboo": [
+    "color",
+    "change",
+    "lizard",
+    "tongue",
+    "camouflage"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-penguin",
+   "word": "Penguin",
+   "taboo": [
+    "ice",
+    "Antarctica",
+    "tuxedo",
+    "bird",
+    "waddle"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-octopus",
+   "word": "Octopus",
+   "taboo": [
+    "eight",
+    "tentacles",
+    "ink",
+    "sea",
+    "arms"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-kangaroo",
+   "word": "Kangaroo",
+   "taboo": [
+    "Australia",
+    "pouch",
+    "jump",
+    "joey",
+    "hop"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-owl",
+   "word": "Owl",
+   "taboo": [
+    "night",
+    "hoot",
+    "wise",
+    "bird",
+    "eyes"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-bat",
+   "word": "Bat",
+   "taboo": [
+    "night",
+    "cave",
+    "wings",
+    "Batman",
+    "vampire"
+   ],
+   "category": "hayvan"
+  },
+  {
+   "id": "en-lawyer",
+   "word": "Lawyer",
+   "taboo": [
+    "court",
+    "case",
+    "attorney",
+    "law",
+    "client"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-architect",
+   "word": "Architect",
+   "taboo": [
+    "building",
+    "design",
+    "plan",
+    "blueprint",
+    "house"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-detective",
+   "word": "Detective",
+   "taboo": [
+    "clue",
+    "Sherlock",
+    "mystery",
+    "crime",
+    "investigate"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-archaeologist",
+   "word": "Archaeologist",
+   "taboo": [
+    "dig",
+    "ancient",
+    "bones",
+    "history",
+    "ruins"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-therapist",
+   "word": "Therapist",
+   "taboo": [
+    "counseling",
+    "couch",
+    "talk",
+    "mental",
+    "session"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-waiter",
+   "word": "Waiter",
+   "taboo": [
+    "restaurant",
+    "order",
+    "tip",
+    "serve",
+    "table"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-marathon",
+   "word": "Marathon",
+   "taboo": [
+    "run",
+    "miles",
+    "long",
+    "race",
+    "26"
+   ],
+   "category": "spor"
+  },
+  {
+   "id": "en-penalty-kick",
+   "word": "Penalty kick",
+   "taboo": [
+    "soccer",
+    "goalkeeper",
+    "foul",
+    "shoot",
+    "spot"
+   ],
+   "category": "spor"
+  },
+  {
+   "id": "en-scuba-diving",
+   "word": "Scuba diving",
+   "taboo": [
+    "underwater",
+    "oxygen",
+    "tank",
+    "ocean",
+    "fins"
+   ],
+   "category": "spor"
+  },
+  {
+   "id": "en-skiing",
+   "word": "Skiing",
+   "taboo": [
+    "snow",
+    "slope",
+    "mountain",
+    "poles",
+    "winter"
+   ],
+   "category": "spor"
+  },
+  {
+   "id": "en-archery",
+   "word": "Archery",
+   "taboo": [
+    "bow",
+    "arrow",
+    "target",
+    "aim",
+    "bullseye"
+   ],
+   "category": "spor"
+  },
+  {
+   "id": "en-charger",
+   "word": "Charger",
+   "taboo": [
+    "battery",
+    "cable",
+    "phone",
+    "plug",
+    "power"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-password",
+   "word": "Password",
+   "taboo": [
+    "secret",
+    "login",
+    "account",
+    "forget",
+    "code"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-screenshot",
+   "word": "Screenshot",
+   "taboo": [
+    "capture",
+    "print",
+    "image",
+    "phone",
+    "save"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-headphones",
+   "word": "Headphones",
+   "taboo": [
+    "music",
+    "ears",
+    "listen",
+    "wireless",
+    "sound"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-emoji",
+   "word": "Emoji",
+   "taboo": [
+    "smiley",
+    "text",
+    "icon",
+    "face",
+    "message"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-artificial-intelligence",
+   "word": "Artificial intelligence",
+   "taboo": [
+    "AI",
+    "robot",
+    "machine",
+    "learning",
+    "computer"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-customs",
+   "word": "Customs",
+   "taboo": [
+    "border",
+    "passport",
+    "declare",
+    "airport",
+    "officer"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "en-camping",
+   "word": "Camping",
+   "taboo": [
+    "tent",
+    "fire",
+    "outdoors",
+    "sleeping bag",
+    "woods"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "en-hitchhiking",
+   "word": "Hitchhiking",
+   "taboo": [
+    "thumb",
+    "road",
+    "ride",
+    "free",
+    "car"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "en-tour-guide",
+   "word": "Tour guide",
+   "taboo": [
+    "sightseeing",
+    "museum",
+    "group",
+    "explain",
+    "trip"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "en-cruise",
+   "word": "Cruise",
+   "taboo": [
+    "ship",
+    "ocean",
+    "vacation",
+    "port",
+    "deck"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "en-magician",
+   "word": "Magician",
+   "taboo": [
+    "illusion",
+    "rabbit",
+    "hat",
+    "trick",
+    "wand"
+   ],
+   "category": "eglence"
+  },
+  {
+   "id": "en-karaoke",
+   "word": "Karaoke",
+   "taboo": [
+    "sing",
+    "microphone",
+    "song",
+    "lyrics",
+    "bar"
+   ],
+   "category": "eglence"
+  },
+  {
+   "id": "en-crossword",
+   "word": "Crossword",
+   "taboo": [
+    "puzzle",
+    "clues",
+    "squares",
+    "newspaper",
+    "letters"
+   ],
+   "category": "eglence"
+  },
+  {
+   "id": "en-horror-movie",
+   "word": "Horror movie",
+   "taboo": [
+    "scary",
+    "ghost",
+    "scream",
+    "blood",
+    "fear"
+   ],
+   "category": "eglence"
+  },
+  {
+   "id": "en-roller-coaster",
+   "word": "Roller coaster",
+   "taboo": [
+    "ride",
+    "loop",
+    "amusement park",
+    "scream",
+    "fast"
+   ],
+   "category": "eglence"
+  },
+  {
+   "id": "en-hide-and-seek",
+   "word": "Hide and seek",
+   "taboo": [
+    "count",
+    "tag",
+    "find",
+    "game",
+    "kids"
+   ],
+   "category": "eglence"
+  },
+  {
+   "id": "en-halloween",
+   "word": "Halloween",
+   "taboo": [
+    "costume",
+    "candy",
+    "pumpkin",
+    "October",
+    "trick or treat"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "en-thanksgiving",
+   "word": "Thanksgiving",
+   "taboo": [
+    "turkey",
+    "November",
+    "family",
+    "grateful",
+    "dinner"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "en-wedding",
+   "word": "Wedding",
+   "taboo": [
+    "bride",
+    "groom",
+    "marry",
+    "ring",
+    "vows"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "en-fireworks",
+   "word": "Fireworks",
+   "taboo": [
+    "sky",
+    "explode",
+    "New Year",
+    "colors",
+    "July"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "en-vaccine",
+   "word": "Vaccine",
+   "taboo": [
+    "shot",
+    "needle",
+    "immune",
+    "virus",
+    "doctor"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "en-ambulance",
+   "word": "Ambulance",
+   "taboo": [
+    "hospital",
+    "siren",
+    "emergency",
+    "paramedic",
+    "stretcher"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "en-insomnia",
+   "word": "Insomnia",
+   "taboo": [
+    "sleep",
+    "night",
+    "awake",
+    "tired",
+    "bed"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "en-sneeze",
+   "word": "Sneeze",
+   "taboo": [
+    "nose",
+    "bless you",
+    "cold",
+    "achoo",
+    "tissue"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "en-report-card",
+   "word": "Report card",
+   "taboo": [
+    "grades",
+    "school",
+    "parents",
+    "A",
+    "term"
+   ],
+   "category": "okul"
+  },
+  {
+   "id": "en-graduation",
+   "word": "Graduation",
+   "taboo": [
+    "cap",
+    "gown",
+    "diploma",
+    "ceremony",
+    "finish"
+   ],
+   "category": "okul"
+  },
+  {
+   "id": "en-field-trip",
+   "word": "Field trip",
+   "taboo": [
+    "class",
+    "bus",
+    "museum",
+    "school",
+    "outing"
+   ],
+   "category": "okul"
+  },
+  {
+   "id": "en-meeting",
+   "word": "Meeting",
+   "taboo": [
+    "agenda",
+    "office",
+    "boss",
+    "conference",
+    "team"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "en-salary",
+   "word": "Salary",
+   "taboo": [
+    "money",
+    "pay",
+    "job",
+    "raise",
+    "paycheck"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "en-overtime",
+   "word": "Overtime",
+   "taboo": [
+    "extra",
+    "hours",
+    "work",
+    "late",
+    "pay"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "en-resignation",
+   "word": "Resignation",
+   "taboo": [
+    "quit",
+    "job",
+    "letter",
+    "leave",
+    "boss"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "en-id-card",
+   "word": "ID card",
+   "taboo": [
+    "identity",
+    "photo",
+    "wallet",
+    "number",
+    "license"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "en-lottery",
+   "word": "Lottery",
+   "taboo": [
+    "ticket",
+    "jackpot",
+    "win",
+    "numbers",
+    "luck"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "en-nightmare",
+   "word": "Nightmare",
+   "taboo": [
+    "dream",
+    "scary",
+    "sleep",
+    "wake",
+    "monster"
+   ],
+   "category": "genel"
+  }
+ ]
+}

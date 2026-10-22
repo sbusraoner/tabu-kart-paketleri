@@ -1,0 +1,919 @@
+{
+ "language": "en",
+ "level": "hard",
+ "version": 1,
+ "cards": [
+  {
+   "id": "en-break-the-ice",
+   "word": "Break the ice",
+   "taboo": [
+    "start",
+    "conversation",
+    "awkward",
+    "meet",
+    "cold"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "en-spill-the-beans",
+   "word": "Spill the beans",
+   "taboo": [
+    "secret",
+    "tell",
+    "reveal",
+    "gossip",
+    "surprise"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "en-once-in-a-blue-moon",
+   "word": "Once in a blue moon",
+   "taboo": [
+    "rarely",
+    "seldom",
+    "never",
+    "often",
+    "sky"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "en-cost-an-arm-and-a-leg",
+   "word": "Cost an arm and a leg",
+   "taboo": [
+    "expensive",
+    "price",
+    "money",
+    "pay",
+    "cheap"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "en-bite-the-bullet",
+   "word": "Bite the bullet",
+   "taboo": [
+    "difficult",
+    "endure",
+    "face",
+    "accept",
+    "pain"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "en-under-the-weather",
+   "word": "Under the weather",
+   "taboo": [
+    "sick",
+    "ill",
+    "feel",
+    "unwell",
+    "cold"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "en-piece-of-cake",
+   "word": "Piece of cake",
+   "taboo": [
+    "easy",
+    "simple",
+    "dessert",
+    "hard",
+    "effortless"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "en-let-the-cat-out-of-the-bag",
+   "word": "Let the cat out of the bag",
+   "taboo": [
+    "secret",
+    "reveal",
+    "tell",
+    "slip",
+    "spill"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "en-hit-the-sack",
+   "word": "Hit the sack",
+   "taboo": [
+    "sleep",
+    "bed",
+    "tired",
+    "night",
+    "go"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "en-the-elephant-in-the-room",
+   "word": "The elephant in the room",
+   "taboo": [
+    "obvious",
+    "ignore",
+    "problem",
+    "avoid",
+    "topic"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "en-burn-the-midnight-oil",
+   "word": "Burn the midnight oil",
+   "taboo": [
+    "late",
+    "night",
+    "work",
+    "study",
+    "awake"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "en-cold-feet",
+   "word": "Cold feet",
+   "taboo": [
+    "nervous",
+    "wedding",
+    "back out",
+    "afraid",
+    "doubt"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "en-empathy",
+   "word": "Empathy",
+   "taboo": [
+    "understand",
+    "feelings",
+    "shoes",
+    "compassion",
+    "others"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-irony",
+   "word": "Irony",
+   "taboo": [
+    "opposite",
+    "sarcasm",
+    "expect",
+    "funny",
+    "twist"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-paradox",
+   "word": "Paradox",
+   "taboo": [
+    "contradiction",
+    "logic",
+    "impossible",
+    "both",
+    "puzzle"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-procrastination",
+   "word": "Procrastination",
+   "taboo": [
+    "delay",
+    "later",
+    "lazy",
+    "deadline",
+    "tomorrow"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-prejudice",
+   "word": "Prejudice",
+   "taboo": [
+    "judge",
+    "bias",
+    "stereotype",
+    "unfair",
+    "assume"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-deja-vu",
+   "word": "Déjà vu",
+   "taboo": [
+    "before",
+    "again",
+    "familiar",
+    "French",
+    "feeling"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-perfectionism",
+   "word": "Perfectionism",
+   "taboo": [
+    "flawless",
+    "mistakes",
+    "detail",
+    "best",
+    "standards"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-disappointment",
+   "word": "Disappointment",
+   "taboo": [
+    "expect",
+    "sad",
+    "let down",
+    "hope",
+    "upset"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-responsibility",
+   "word": "Responsibility",
+   "taboo": [
+    "duty",
+    "task",
+    "accountable",
+    "blame",
+    "obligation"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-sarcasm",
+   "word": "Sarcasm",
+   "taboo": [
+    "mock",
+    "tone",
+    "joke",
+    "mean",
+    "eye roll"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "en-gravity",
+   "word": "Gravity",
+   "taboo": [
+    "Newton",
+    "apple",
+    "fall",
+    "force",
+    "Earth"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "en-photosynthesis",
+   "word": "Photosynthesis",
+   "taboo": [
+    "plant",
+    "sun",
+    "chlorophyll",
+    "oxygen",
+    "leaf"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "en-black-hole",
+   "word": "Black hole",
+   "taboo": [
+    "space",
+    "star",
+    "light",
+    "pull",
+    "galaxy"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "en-evolution",
+   "word": "Evolution",
+   "taboo": [
+    "Darwin",
+    "species",
+    "monkey",
+    "natural selection",
+    "change"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "en-dna",
+   "word": "DNA",
+   "taboo": [
+    "gene",
+    "helix",
+    "cell",
+    "chromosome",
+    "inherit"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "en-magnet",
+   "word": "Magnet",
+   "taboo": [
+    "attract",
+    "metal",
+    "north",
+    "south",
+    "fridge"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "en-evaporation",
+   "word": "Evaporation",
+   "taboo": [
+    "water",
+    "heat",
+    "steam",
+    "gas",
+    "liquid"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "en-comet",
+   "word": "Comet",
+   "taboo": [
+    "space",
+    "tail",
+    "ice",
+    "Halley",
+    "sky"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "en-algorithm",
+   "word": "Algorithm",
+   "taboo": [
+    "steps",
+    "code",
+    "program",
+    "solve",
+    "computer"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-cloud-storage",
+   "word": "Cloud storage",
+   "taboo": [
+    "internet",
+    "files",
+    "backup",
+    "server",
+    "Drive"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-cryptocurrency",
+   "word": "Cryptocurrency",
+   "taboo": [
+    "Bitcoin",
+    "digital",
+    "blockchain",
+    "coin",
+    "wallet"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-phishing",
+   "word": "Phishing",
+   "taboo": [
+    "fake",
+    "email",
+    "scam",
+    "password",
+    "link"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-influencer",
+   "word": "Influencer",
+   "taboo": [
+    "social media",
+    "followers",
+    "Instagram",
+    "sponsor",
+    "famous"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-podcast",
+   "word": "Podcast",
+   "taboo": [
+    "listen",
+    "episode",
+    "audio",
+    "host",
+    "show"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-spoiler",
+   "word": "Spoiler",
+   "taboo": [
+    "ending",
+    "movie",
+    "reveal",
+    "alert",
+    "ruin"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-virtual-reality",
+   "word": "Virtual reality",
+   "taboo": [
+    "headset",
+    "VR",
+    "game",
+    "simulation",
+    "world"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-subscription",
+   "word": "Subscription",
+   "taboo": [
+    "monthly",
+    "pay",
+    "Netflix",
+    "cancel",
+    "member"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-doomscrolling",
+   "word": "Doomscrolling",
+   "taboo": [
+    "phone",
+    "news",
+    "endless",
+    "feed",
+    "bad"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "en-democracy",
+   "word": "Democracy",
+   "taboo": [
+    "vote",
+    "election",
+    "people",
+    "government",
+    "freedom"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "en-bureaucracy",
+   "word": "Bureaucracy",
+   "taboo": [
+    "paperwork",
+    "government",
+    "forms",
+    "red tape",
+    "office"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "en-inflation",
+   "word": "Inflation",
+   "taboo": [
+    "prices",
+    "rise",
+    "money",
+    "economy",
+    "expensive"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "en-migration",
+   "word": "Migration",
+   "taboo": [
+    "move",
+    "country",
+    "refugee",
+    "birds",
+    "immigrant"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "en-census",
+   "word": "Census",
+   "taboo": [
+    "count",
+    "population",
+    "government",
+    "survey",
+    "people"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "en-strike",
+   "word": "Strike",
+   "taboo": [
+    "workers",
+    "union",
+    "protest",
+    "stop",
+    "demands"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "en-gentrification",
+   "word": "Gentrification",
+   "taboo": [
+    "neighborhood",
+    "rich",
+    "rent",
+    "hipster",
+    "change"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "en-gossip",
+   "word": "Gossip",
+   "taboo": [
+    "rumor",
+    "talk",
+    "behind",
+    "secret",
+    "spread"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "en-renaissance",
+   "word": "Renaissance",
+   "taboo": [
+    "Italy",
+    "art",
+    "rebirth",
+    "Da Vinci",
+    "Europe"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "en-trojan-horse",
+   "word": "Trojan horse",
+   "taboo": [
+    "wooden",
+    "Greek",
+    "Troy",
+    "trick",
+    "war"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "en-olympics",
+   "word": "Olympics",
+   "taboo": [
+    "games",
+    "medal",
+    "four years",
+    "rings",
+    "athletes"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "en-opera",
+   "word": "Opera",
+   "taboo": [
+    "sing",
+    "soprano",
+    "stage",
+    "music",
+    "aria"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "en-sculpture",
+   "word": "Sculpture",
+   "taboo": [
+    "statue",
+    "marble",
+    "carve",
+    "art",
+    "museum"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "en-mosaic",
+   "word": "Mosaic",
+   "taboo": [
+    "tiles",
+    "pieces",
+    "colorful",
+    "wall",
+    "pattern"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "en-origami",
+   "word": "Origami",
+   "taboo": [
+    "paper",
+    "fold",
+    "Japanese",
+    "crane",
+    "art"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "en-sherlock-holmes",
+   "word": "Sherlock Holmes",
+   "taboo": [
+    "detective",
+    "Watson",
+    "Baker Street",
+    "pipe",
+    "elementary"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "en-diplomat",
+   "word": "Diplomat",
+   "taboo": [
+    "ambassador",
+    "country",
+    "embassy",
+    "negotiate",
+    "foreign"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-editor",
+   "word": "Editor",
+   "taboo": [
+    "publish",
+    "text",
+    "correct",
+    "magazine",
+    "proofread"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-sommelier",
+   "word": "Sommelier",
+   "taboo": [
+    "wine",
+    "taste",
+    "restaurant",
+    "cellar",
+    "expert"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-stunt-double",
+   "word": "Stunt double",
+   "taboo": [
+    "actor",
+    "dangerous",
+    "movie",
+    "scene",
+    "replace"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-notary",
+   "word": "Notary",
+   "taboo": [
+    "sign",
+    "stamp",
+    "document",
+    "witness",
+    "legal"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "en-entrepreneur",
+   "word": "Entrepreneur",
+   "taboo": [
+    "business",
+    "startup",
+    "idea",
+    "risk",
+    "founder"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "en-brainstorming",
+   "word": "Brainstorming",
+   "taboo": [
+    "ideas",
+    "meeting",
+    "team",
+    "think",
+    "suggest"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "en-burnout",
+   "word": "Burnout",
+   "taboo": [
+    "tired",
+    "work",
+    "stress",
+    "exhausted",
+    "motivation"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "en-remote-work",
+   "word": "Remote work",
+   "taboo": [
+    "home",
+    "office",
+    "Zoom",
+    "internet",
+    "commute"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "en-investment",
+   "word": "Investment",
+   "taboo": [
+    "money",
+    "stocks",
+    "return",
+    "future",
+    "portfolio"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "en-placebo",
+   "word": "Placebo",
+   "taboo": [
+    "sugar pill",
+    "fake",
+    "believe",
+    "effect",
+    "medicine"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "en-meditation",
+   "word": "Meditation",
+   "taboo": [
+    "breathe",
+    "calm",
+    "mind",
+    "yoga",
+    "focus"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "en-allergy",
+   "word": "Allergy",
+   "taboo": [
+    "sneeze",
+    "pollen",
+    "peanut",
+    "itch",
+    "reaction"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "en-metabolism",
+   "word": "Metabolism",
+   "taboo": [
+    "burn",
+    "energy",
+    "fast",
+    "weight",
+    "calories"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "en-jet-lag",
+   "word": "Jet lag",
+   "taboo": [
+    "time zone",
+    "flight",
+    "tired",
+    "sleep",
+    "travel"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "en-visa",
+   "word": "Visa",
+   "taboo": [
+    "passport",
+    "apply",
+    "embassy",
+    "country",
+    "entry"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "en-dry-cleaning",
+   "word": "Dry cleaning",
+   "taboo": [
+    "clothes",
+    "stain",
+    "suit",
+    "chemical",
+    "laundry"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "en-fortune-cookie",
+   "word": "Fortune cookie",
+   "taboo": [
+    "Chinese",
+    "message",
+    "paper",
+    "future",
+    "dessert"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "en-signature",
+   "word": "Signature",
+   "taboo": [
+    "name",
+    "write",
+    "pen",
+    "document",
+    "autograph"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "en-time-capsule",
+   "word": "Time capsule",
+   "taboo": [
+    "bury",
+    "future",
+    "open",
+    "years",
+    "memories"
+   ],
+   "category": "genel"
+  }
+ ]
+}

@@ -1,0 +1,943 @@
+{
+ "language": "tr",
+ "level": "hard",
+ "version": 1,
+ "cards": [
+  {
+   "id": "tr-goz-boyamak",
+   "word": "Göz boyamak",
+   "taboo": [
+    "aldatmak",
+    "gerçek",
+    "gösteriş",
+    "kandırmak",
+    "sahte"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "tr-etekleri-zil-calmak",
+   "word": "Etekleri zil çalmak",
+   "taboo": [
+    "sevinmek",
+    "mutlu",
+    "heyecan",
+    "çok",
+    "neşe"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "tr-kulak-misafiri",
+   "word": "Kulak misafiri",
+   "taboo": [
+    "duymak",
+    "dinlemek",
+    "konuşma",
+    "istemeden",
+    "gizli"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "tr-agzi-kulaklarinda",
+   "word": "Ağzı kulaklarında",
+   "taboo": [
+    "gülmek",
+    "mutlu",
+    "sevinç",
+    "gülümseme",
+    "yüz"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "tr-pire-icin-yorgan-yakmak",
+   "word": "Pire için yorgan yakmak",
+   "taboo": [
+    "küçük",
+    "zarar",
+    "öfke",
+    "büyütmek",
+    "sorun"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "tr-dereyi-gormeden-pacalari-sivamak",
+   "word": "Dereyi görmeden paçaları sıvamak",
+   "taboo": [
+    "acele",
+    "erken",
+    "hazırlık",
+    "önceden",
+    "su"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "tr-tas-kesilmek",
+   "word": "Taş kesilmek",
+   "taboo": [
+    "donmak",
+    "şaşırmak",
+    "hareketsiz",
+    "kalmak",
+    "şok"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "tr-ates-pahasi",
+   "word": "Ateş pahası",
+   "taboo": [
+    "pahalı",
+    "para",
+    "fiyat",
+    "yüksek",
+    "ucuz"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "tr-burnundan-kil-aldirmamak",
+   "word": "Burnundan kıl aldırmamak",
+   "taboo": [
+    "kibir",
+    "gurur",
+    "kendini beğenmiş",
+    "kimse",
+    "itiraz"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "tr-eli-acik",
+   "word": "Eli açık",
+   "taboo": [
+    "cömert",
+    "para",
+    "vermek",
+    "cimri",
+    "harcamak"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "tr-dut-yemis-bulbul",
+   "word": "Dut yemiş bülbül",
+   "taboo": [
+    "susmak",
+    "konuşmamak",
+    "sessiz",
+    "kuş",
+    "ses"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "tr-kirk-dereden-su-getirmek",
+   "word": "Kırk dereden su getirmek",
+   "taboo": [
+    "bahane",
+    "uzatmak",
+    "mazeret",
+    "dolandırmak",
+    "söz"
+   ],
+   "category": "deyim"
+  },
+  {
+   "id": "tr-empati",
+   "word": "Empati",
+   "taboo": [
+    "anlamak",
+    "yerine koymak",
+    "duygu",
+    "karşı taraf",
+    "hissetmek"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "tr-ironi",
+   "word": "İroni",
+   "taboo": [
+    "alay",
+    "tersini",
+    "söylemek",
+    "iğneleme",
+    "gerçek"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "tr-paradoks",
+   "word": "Paradoks",
+   "taboo": [
+    "çelişki",
+    "mantık",
+    "aynı anda",
+    "zıt",
+    "bilmece"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "tr-ertelemek",
+   "word": "Ertelemek",
+   "taboo": [
+    "sonra",
+    "yarın",
+    "tembellik",
+    "iş",
+    "bekletmek"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "tr-onyargi",
+   "word": "Önyargı",
+   "taboo": [
+    "yargılamak",
+    "tanımadan",
+    "peşin",
+    "düşünce",
+    "ayrımcılık"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "tr-deja-vu",
+   "word": "Déjà vu",
+   "taboo": [
+    "daha önce",
+    "yaşamak",
+    "tekrar",
+    "his",
+    "tanıdık"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "tr-mukemmeliyetcilik",
+   "word": "Mükemmeliyetçilik",
+   "taboo": [
+    "kusursuz",
+    "hata",
+    "detay",
+    "en iyi",
+    "tam"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "tr-hayal-kirikligi",
+   "word": "Hayal kırıklığı",
+   "taboo": [
+    "beklenti",
+    "üzülmek",
+    "umut",
+    "düş",
+    "olmamak"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "tr-firsatcilik",
+   "word": "Fırsatçılık",
+   "taboo": [
+    "yararlanmak",
+    "durum",
+    "çıkar",
+    "kollamak",
+    "kâr"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "tr-sorumluluk",
+   "word": "Sorumluluk",
+   "taboo": [
+    "görev",
+    "yükümlülük",
+    "üstlenmek",
+    "hesap",
+    "ödev"
+   ],
+   "category": "kavram"
+  },
+  {
+   "id": "tr-yercekimi",
+   "word": "Yerçekimi",
+   "taboo": [
+    "Newton",
+    "elma",
+    "düşmek",
+    "çekim",
+    "Dünya"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "tr-fotosentez",
+   "word": "Fotosentez",
+   "taboo": [
+    "bitki",
+    "güneş",
+    "klorofil",
+    "oksijen",
+    "yaprak"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "tr-kara-delik",
+   "word": "Kara delik",
+   "taboo": [
+    "uzay",
+    "yıldız",
+    "çekim",
+    "ışık",
+    "galaksi"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "tr-evrim",
+   "word": "Evrim",
+   "taboo": [
+    "Darwin",
+    "tür",
+    "maymun",
+    "değişim",
+    "doğal seçilim"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "tr-dna",
+   "word": "DNA",
+   "taboo": [
+    "gen",
+    "sarmal",
+    "hücre",
+    "kalıtım",
+    "kromozom"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "tr-miknatis",
+   "word": "Mıknatıs",
+   "taboo": [
+    "çekmek",
+    "demir",
+    "kutup",
+    "manyetik",
+    "buzdolabı"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "tr-buharlasma",
+   "word": "Buharlaşma",
+   "taboo": [
+    "su",
+    "ısı",
+    "gaz",
+    "sıvı",
+    "yükselmek"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "tr-kuyruklu-yildiz",
+   "word": "Kuyruklu yıldız",
+   "taboo": [
+    "uzay",
+    "buz",
+    "gezegen",
+    "Halley",
+    "gökyüzü"
+   ],
+   "category": "bilim"
+  },
+  {
+   "id": "tr-algoritma",
+   "word": "Algoritma",
+   "taboo": [
+    "adım",
+    "kod",
+    "program",
+    "çözüm",
+    "bilgisayar"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "tr-bulut-depolama",
+   "word": "Bulut depolama",
+   "taboo": [
+    "internet",
+    "dosya",
+    "yedek",
+    "sunucu",
+    "Drive"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "tr-kripto-para",
+   "word": "Kripto para",
+   "taboo": [
+    "Bitcoin",
+    "dijital",
+    "blokzincir",
+    "borsa",
+    "cüzdan"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "tr-oltalama",
+   "word": "Oltalama",
+   "taboo": [
+    "sahte",
+    "e-posta",
+    "şifre",
+    "dolandırıcılık",
+    "link"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "tr-influencer",
+   "word": "Influencer",
+   "taboo": [
+    "sosyal medya",
+    "takipçi",
+    "Instagram",
+    "reklam",
+    "ünlü"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "tr-podcast",
+   "word": "Podcast",
+   "taboo": [
+    "dinlemek",
+    "bölüm",
+    "sesli",
+    "yayın",
+    "sohbet"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "tr-spoiler",
+   "word": "Spoiler",
+   "taboo": [
+    "film",
+    "son",
+    "dizi",
+    "söylemek",
+    "sürpriz"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "tr-sanal-gerceklik",
+   "word": "Sanal gerçeklik",
+   "taboo": [
+    "gözlük",
+    "VR",
+    "oyun",
+    "dünya",
+    "simülasyon"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "tr-abonelik",
+   "word": "Abonelik",
+   "taboo": [
+    "aylık",
+    "ödeme",
+    "Netflix",
+    "iptal",
+    "üyelik"
+   ],
+   "category": "teknoloji"
+  },
+  {
+   "id": "tr-algi-yonetimi",
+   "word": "Algı yönetimi",
+   "taboo": [
+    "medya",
+    "kamuoyu",
+    "manipülasyon",
+    "haber",
+    "yönlendirmek"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "tr-demokrasi",
+   "word": "Demokrasi",
+   "taboo": [
+    "seçim",
+    "halk",
+    "oy",
+    "yönetim",
+    "meclis"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "tr-burokrasi",
+   "word": "Bürokrasi",
+   "taboo": [
+    "evrak",
+    "devlet",
+    "memur",
+    "kırtasiye",
+    "işlem"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "tr-enflasyon",
+   "word": "Enflasyon",
+   "taboo": [
+    "fiyat",
+    "artış",
+    "para",
+    "ekonomi",
+    "pahalılık"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "tr-goc",
+   "word": "Göç",
+   "taboo": [
+    "taşınmak",
+    "ülke",
+    "mülteci",
+    "yer değiştirmek",
+    "kuş"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "tr-nufus-sayimi",
+   "word": "Nüfus sayımı",
+   "taboo": [
+    "insan",
+    "saymak",
+    "ülke",
+    "devlet",
+    "istatistik"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "tr-grev",
+   "word": "Grev",
+   "taboo": [
+    "işçi",
+    "sendika",
+    "çalışmamak",
+    "eylem",
+    "talep"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "tr-kentsel-donusum",
+   "word": "Kentsel dönüşüm",
+   "taboo": [
+    "bina",
+    "yıkmak",
+    "deprem",
+    "mahalle",
+    "inşaat"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "tr-dedikodu",
+   "word": "Dedikodu",
+   "taboo": [
+    "arkadan",
+    "konuşmak",
+    "söylenti",
+    "laf",
+    "komşu"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "tr-sosyal-medya-bagimliligi",
+   "word": "Sosyal medya bağımlılığı",
+   "taboo": [
+    "telefon",
+    "ekran",
+    "kaydırmak",
+    "beğeni",
+    "saat"
+   ],
+   "category": "toplum"
+  },
+  {
+   "id": "tr-mevlana",
+   "word": "Mevlana",
+   "taboo": [
+    "Konya",
+    "sema",
+    "Mesnevi",
+    "derviş",
+    "gel"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "tr-truva-ati",
+   "word": "Truva atı",
+   "taboo": [
+    "tahta",
+    "Yunan",
+    "savaş",
+    "hile",
+    "Çanakkale"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "tr-olimpiyat",
+   "word": "Olimpiyat",
+   "taboo": [
+    "oyunlar",
+    "madalya",
+    "dört yıl",
+    "halka",
+    "sporcu"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "tr-ronesans",
+   "word": "Rönesans",
+   "taboo": [
+    "İtalya",
+    "sanat",
+    "yeniden doğuş",
+    "Da Vinci",
+    "Avrupa"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "tr-mozaik",
+   "word": "Mozaik",
+   "taboo": [
+    "taş",
+    "parça",
+    "renkli",
+    "duvar",
+    "Zeugma"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "tr-minyatur",
+   "word": "Minyatür",
+   "taboo": [
+    "resim",
+    "küçük",
+    "Osmanlı",
+    "sanat",
+    "nakkaş"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "tr-ebru",
+   "word": "Ebru",
+   "taboo": [
+    "su",
+    "boya",
+    "kâğıt",
+    "sanat",
+    "desen"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "tr-opera",
+   "word": "Opera",
+   "taboo": [
+    "şarkı",
+    "sahne",
+    "soprano",
+    "tiyatro",
+    "müzik"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "tr-heykel",
+   "word": "Heykel",
+   "taboo": [
+    "taş",
+    "mermer",
+    "yontmak",
+    "sanatçı",
+    "müze"
+   ],
+   "category": "kultur"
+  },
+  {
+   "id": "tr-diplomat",
+   "word": "Diplomat",
+   "taboo": [
+    "büyükelçi",
+    "ülke",
+    "dışişleri",
+    "müzakere",
+    "konsolosluk"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "tr-editor",
+   "word": "Editör",
+   "taboo": [
+    "yayın",
+    "metin",
+    "düzeltmek",
+    "dergi",
+    "kitap"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "tr-sommelier",
+   "word": "Sommelier",
+   "taboo": [
+    "şarap",
+    "tadım",
+    "restoran",
+    "mahzen",
+    "uzman"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "tr-kaskador",
+   "word": "Kaskadör",
+   "taboo": [
+    "dublör",
+    "tehlike",
+    "film",
+    "sahne",
+    "aksiyon"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "tr-noter",
+   "word": "Noter",
+   "taboo": [
+    "imza",
+    "onay",
+    "belge",
+    "vekâlet",
+    "resmi"
+   ],
+   "category": "meslek"
+  },
+  {
+   "id": "tr-girisimci",
+   "word": "Girişimci",
+   "taboo": [
+    "şirket",
+    "kurmak",
+    "fikir",
+    "risk",
+    "startup"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "tr-beyin-firtinasi",
+   "word": "Beyin fırtınası",
+   "taboo": [
+    "fikir",
+    "toplantı",
+    "ekip",
+    "düşünmek",
+    "öneri"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "tr-tukenmislik-sendromu",
+   "word": "Tükenmişlik sendromu",
+   "taboo": [
+    "yorgunluk",
+    "iş",
+    "stres",
+    "motivasyon",
+    "bitkin"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "tr-uzaktan-calisma",
+   "word": "Uzaktan çalışma",
+   "taboo": [
+    "evden",
+    "internet",
+    "ofis",
+    "toplantı",
+    "bilgisayar"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "tr-yatirim",
+   "word": "Yatırım",
+   "taboo": [
+    "para",
+    "borsa",
+    "kazanç",
+    "gelecek",
+    "hisse"
+   ],
+   "category": "is"
+  },
+  {
+   "id": "tr-plasebo",
+   "word": "Plasebo",
+   "taboo": [
+    "ilaç",
+    "şeker",
+    "inanmak",
+    "etki",
+    "sahte"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "tr-meditasyon",
+   "word": "Meditasyon",
+   "taboo": [
+    "nefes",
+    "sakin",
+    "zihin",
+    "yoga",
+    "odaklanmak"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "tr-alerji",
+   "word": "Alerji",
+   "taboo": [
+    "hapşırmak",
+    "polen",
+    "kaşıntı",
+    "kurdeşen",
+    "reaksiyon"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "tr-metabolizma",
+   "word": "Metabolizma",
+   "taboo": [
+    "yakmak",
+    "enerji",
+    "hızlı",
+    "kilo",
+    "sindirim"
+   ],
+   "category": "saglik"
+  },
+  {
+   "id": "tr-jet-lag",
+   "word": "Jet lag",
+   "taboo": [
+    "saat farkı",
+    "uçuş",
+    "yorgunluk",
+    "uyku",
+    "yolculuk"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "tr-vize",
+   "word": "Vize",
+   "taboo": [
+    "pasaport",
+    "başvuru",
+    "konsolosluk",
+    "ülke",
+    "giriş"
+   ],
+   "category": "seyahat"
+  },
+  {
+   "id": "tr-kuru-temizleme",
+   "word": "Kuru temizleme",
+   "taboo": [
+    "elbise",
+    "leke",
+    "kimyasal",
+    "ütü",
+    "takım"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "tr-surpriz-yumurta",
+   "word": "Sürpriz yumurta",
+   "taboo": [
+    "çikolata",
+    "oyuncak",
+    "içinde",
+    "çocuk",
+    "Kinder"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "tr-kahve-fali",
+   "word": "Kahve falı",
+   "taboo": [
+    "fincan",
+    "telve",
+    "bakmak",
+    "gelecek",
+    "şekil"
+   ],
+   "category": "genel"
+  },
+  {
+   "id": "tr-imza",
+   "word": "İmza",
+   "taboo": [
+    "isim",
+    "kalem",
+    "kâğıt",
+    "atmak",
+    "belge"
+   ],
+   "category": "genel"
+  }
+ ]
+}
